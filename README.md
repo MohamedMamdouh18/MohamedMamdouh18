@@ -6,7 +6,8 @@
  
 
 
-
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>]([https://www.linkedin.com/in/adityapal1/](https://www.linkedin.com/in/mohamad-mamdouh-51a9b51bb/))  &nbsp;
+  [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>]([https://www.facebook.com/sciencepal/](https://www.facebook.com/profile.php?id=100003817882908))  &nbsp;
 
 
 
