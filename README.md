@@ -7,7 +7,7 @@
 
 
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>]([https://www.linkedin.com/in/adityapal1/](https://www.linkedin.com/in/mohamad-mamdouh-51a9b51bb/))  &nbsp;
-    [<img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.svg" width="3.5%"/>]([https://www.linkedin.com/in/adityapal1/](https://www.linkedin.com/in/mohamad-mamdouh-51a9b51bb/))  &nbsp;
+    [<img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" width="3.5%"/>]([https://www.linkedin.com/in/adityapal1/](https://www.linkedin.com/in/mohamad-mamdouh-51a9b51bb/))  &nbsp;
 <a href="mohamadmmdouh10@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 
