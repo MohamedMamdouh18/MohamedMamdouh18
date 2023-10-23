@@ -3,8 +3,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;Competitive+Programmer;Specialist+on+Codeforces;SSeptember+2023+LeetCoding+Challenge+Winner+🏆;Always+learning+new+things"></a>
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=MohamedMamdouh18&color=green) 
+![Followers](https://img.shields.io/github/followers/MohamedMamdouh18?label=Followers&style=social) 
+
 <p align="center">
   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="center" alt="GIF" src="https://github.com/MohamedMamdouh18/MohamedMamdouh18/blob/main/Coding.gif?raw=true" width="320" height="320" />
 </p>
 
  # My Accounts 📧
