@@ -11,7 +11,7 @@
 
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mohamad-mamdouh-51a9b51bb/) &nbsp;[<img src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" width="3.5%"/>](https://codeforces.com/profile/MohamedMamdouh19) &nbsp;[<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%" width="3.5%"/>](mohamadmmdouh10@gmail.com)  &nbsp;
 <a href="https://leetcode.com/MohamedMamdouh20/">
-  <img align="left" alt="Ankit Rastogi |Leetcode" width="40px" src="https://user-images.githubusercontent.com/55028717/148812308-fe2c7e79-f9b5-415e-bf5b-9d31a51ed8fb.png" />
+  <img align="left" alt="Ankit Rastogi |Leetcode" width="40px" src="https://user-images.githubusercontent.com/55028717/148812308-fe2c7e79-f9b5-415e-bf5b-9d31a51ed8fb.png" /> &nbsp;[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="3.5%"/>](https://www.kaggle.com/mohamadmmdouh)
 </a>
 
 
